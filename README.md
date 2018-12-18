@@ -6,6 +6,9 @@
 在旅遊的事前規劃上，又或是已經有心儀的景點卻苦惱不知道該如何安排剩下的行程，這些都
 是要出去玩之前常遇見的情況，有鑒於此我們希望針對上述情況提供一套快捷的旅遊規劃解決 方案。
 
+## 詳細報告
+[點此](https://github.com/p208p2002/quick-travel-schedule/blob/master/quick-travel-schedule.pdf)
+
 ## Repository
 - [Project](https://gitlab.com/p208p2002/quick-travel-schedule)
 - [React](https://gitlab.com/p208p2002/quick-travel-schedule-react)
